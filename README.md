@@ -43,6 +43,8 @@ My name is Eduardo Marques, and I'm a FullStack Developer based in São Paulo, B
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eedumarquess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<br />
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/eedumarquess/count.svg?"  />
 </div>
