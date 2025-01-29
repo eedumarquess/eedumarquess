@@ -37,6 +37,11 @@ My name is Eduardo Marques, and I'm a FullStack Developer based in São Paulo, B
   </a>
 </div>
 
+## 🎵 Últimas músicas tocadas no Last.fm
+
+<!--START_SECTION:lastfm-->
+<!--END_SECTION:lastfm-->
+
 ###
 
 <div align="center">
