@@ -5,10 +5,8 @@ Full Stack Developer focused on building useful, scalable, and maintainable prod
 ## Quick Navigation
 
 - [Projects](#projects)
-- [What I Build](#what-i-build)
 - [Why I Build This Way](#why-i-build-this-way)
 - [Main Stack](#main-stack)
-- [Contact](#contact)
 
 ## Projects
 
@@ -27,15 +25,6 @@ To make navigation easier, I organized links by project type:
 
 Tip: if you want to see only the main projects, use the **Pinned** section on the profile page.
 
-## What I Build
-
-Based on my work, I usually build:
-
-- **End-to-end web applications** (frontend + backend)
-- **APIs and service integrations**
-- **Internal tools and automations** to improve productivity
-- **Modern interfaces** focused on user experience
-
 ## Why I Build This Way
 
 My goal is to build software that:
@@ -51,8 +40,3 @@ My goal is to build software that:
 - **Frontend:** React, Vue
 - **Backend:** Node.js
 - **Infra/DevOps:** Docker
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/eduardo-marquess/
-- GitHub: https://github.com/eedumarquess
